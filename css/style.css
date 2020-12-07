@@ -27,3 +27,7 @@ nav li a:hover{
     color: yellow;
     text-decoration: none;
 }
+
+form{
+    padding: 60px 90px;
+}
