@@ -31,3 +31,7 @@ nav li a:hover{
 form{
     padding: 60px 90px;
 }
+
+#error{
+    color: red;
+}
